@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phatt\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\GitHub\\-Homework-Calculator\\Homework Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14B65061-E6D3-4405-80DA-BF47FFF68BE8}|Homework Calculator\\Homework Calculator.csproj|c:\\users\\phatt\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\github\\-homework-calculator\\homework calculator\\homework calculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{14B65061-E6D3-4405-80DA-BF47FFF68BE8}|Homework Calculator\\Homework Calculator.csproj|solutionrelative:homework calculator\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14B65061-E6D3-4405-80DA-BF47FFF68BE8}|Homework Calculator\\Homework Calculator.csproj|c:\\users\\phatt\\onedrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\github\\-homework-calculator\\homework calculator\\homework calculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14B65061-E6D3-4405-80DA-BF47FFF68BE8}|Homework Calculator\\Homework Calculator.csproj|solutionrelative:homework calculator\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\phatt\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\GitHub\\-Homework-Calculator\\Homework Calculator\\Homework Calculator\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Homework Calculator\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\phatt\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\GitHub\\-Homework-Calculator\\Homework Calculator\\Homework Calculator\\MainWindow.xaml",
+              "RelativeToolTip": "Homework Calculator\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T04:37:01.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\phatt\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\GitHub\\-Homework-Calculator\\Homework Calculator\\Homework Calculator\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Homework Calculator\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\phatt\\OneDrive\\\u0E40\u0E2D\u0E01\u0E2A\u0E32\u0E23\\GitHub\\-Homework-Calculator\\Homework Calculator\\Homework Calculator\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Homework Calculator\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAewCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T04:37:01.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\phatt\OneDrive\เอกสาร\GitHub\-Homework-Calculator\Homework Calculator\Homework Calculator\bin\Debug\Homework Calculator.exe.config
+C:\Users\phatt\OneDrive\เอกสาร\GitHub\-Homework-Calculator\Homework Calculator\Homework Calculator\bin\Debug\Homework Calculator.exe
+C:\Users\phatt\OneDrive\เอกสาร\GitHub\-Homework-Calculator\Homework Calculator\Homework Calculator\bin\Debug\Homework Calculator.pdb
+C:\Users\phatt\OneDrive\เอกสาร\GitHub\-Homework-Calculator\Homework Calculator\Homework Calculator\obj\Debug\Homework Calculator.csproj.AssemblyReference.cache
+C:\Users\phatt\OneDrive\เอกสาร\GitHub\-Homework-Calculator\Homework Calculator\Homework Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\phatt\OneDrive\เอกสาร\GitHub\-Homework-Calculator\Homework Calculator\Homework Calculator\obj\Debug\App.g.cs
+C:\Users\phatt\OneDrive\เอกสาร\GitHub\-Homework-Calculator\Homework Calculator\Homework Calculator\obj\Debug\Homework Calculator_MarkupCompile.cache
+C:\Users\phatt\OneDrive\เอกสาร\GitHub\-Homework-Calculator\Homework Calculator\Homework Calculator\obj\Debug\Homework Calculator_MarkupCompile.lref
+C:\Users\phatt\OneDrive\เอกสาร\GitHub\-Homework-Calculator\Homework Calculator\Homework Calculator\obj\Debug\MainWindow.baml
+C:\Users\phatt\OneDrive\เอกสาร\GitHub\-Homework-Calculator\Homework Calculator\Homework Calculator\obj\Debug\Homework Calculator.g.resources
+C:\Users\phatt\OneDrive\เอกสาร\GitHub\-Homework-Calculator\Homework Calculator\Homework Calculator\obj\Debug\Homework_Calculator.Properties.Resources.resources
+C:\Users\phatt\OneDrive\เอกสาร\GitHub\-Homework-Calculator\Homework Calculator\Homework Calculator\obj\Debug\Homework Calculator.csproj.GenerateResource.cache
+C:\Users\phatt\OneDrive\เอกสาร\GitHub\-Homework-Calculator\Homework Calculator\Homework Calculator\obj\Debug\Homework Calculator.csproj.CoreCompileInputs.cache
+C:\Users\phatt\OneDrive\เอกสาร\GitHub\-Homework-Calculator\Homework Calculator\Homework Calculator\obj\Debug\Homework Calculator.exe
+C:\Users\phatt\OneDrive\เอกสาร\GitHub\-Homework-Calculator\Homework Calculator\Homework Calculator\obj\Debug\Homework Calculator.pdb
